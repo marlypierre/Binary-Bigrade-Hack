@@ -1,4 +1,4 @@
-# Binary Bigrade Hack
+# Binary Brigade Hack
 
 ## Description 🚨 
 This is a repository template containing all the information that needs to accompany your project.
@@ -43,7 +43,7 @@ Example:
 Benedict College
 
 ### Team Name 🏷
-Binary Bigrade
+Binary Brigade
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
