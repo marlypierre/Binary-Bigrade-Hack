@@ -33,9 +33,11 @@ Example:
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Marly Pierre (D339NLO)
+* Quentin Whitfield (Y8YD080)
+* Franklin Hepburn (W5RL972)
+* Shanera Bartlett ()
+* Domenica Weems ()
 
 ### School Name 🏫
 Benedict College
