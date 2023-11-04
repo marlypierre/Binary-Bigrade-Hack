@@ -1,4 +1,4 @@
-# BE Smart Hack Repo Template
+# Binary Bigrade Hack
 
 ## Description 🚨 
 This is a repository template containing all the information that needs to accompany your project.
@@ -38,10 +38,10 @@ Example:
 * Team member Z (AAdvantage No)
 
 ### School Name 🏫
-The ABC School
+Benedict College
 
 ### Team Name 🏷
-Coding Costars
+Binary Bigrade
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
@@ -55,7 +55,7 @@ Coding Costars
 - [ ] Communication established with mentor
 - [ ] Repo creation from this template
 - [ ] Hangar registration
-- [ ] Scavenger Hunt submission
+- [-] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
 - [ ] Presentation complete and linked
